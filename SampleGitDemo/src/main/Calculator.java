@@ -23,6 +23,10 @@ public class Calculator {
 	      System.out.println(num1*num1*num1*num1);
 
 	  }
+	public static void fivetimes(int num1){
+	      System.out.println(num1*num1*num1*num1*num1);
+
+	  }
 
 
 
